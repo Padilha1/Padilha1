@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Padilha1
-- 👀 I’m interested in Anime, manga, sports and E-sports
-- 🌱 I’m currently learning web development ( html, css, js, python, git, SQL )
+- 👀 I’m interested in WebDesign, Anime, manga, sports and E-sports 
+- 🌱 I’m currently learning web development ( html, css, javascript, python, SQL)
 - 💞️ I’m looking to collaborate on ( I have the faintest idea right now )
 - 📫 How to reach me: padilha.matheus@hotmail.com 
 
