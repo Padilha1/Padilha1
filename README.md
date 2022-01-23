@@ -1,7 +1,7 @@
 - <h1> Hi, I’m Matheus Padilha, but you can call me just Padilha 😎 </h1>
 
 
-![Padilha's GitHub stats](https://github-readme-stats.vercel.app/api?username=padilha1&show_icons=true&theme=tokyonight)        
+![Padilha's GitHub stats](https://github-readme-stats.vercel.app/api?username=padilha1&show_icons=true&theme=merko)        
 
 - 👀 I’m interested in WebDesign, Neuroscience, Virtual Reality, Creation of Art.
 - 🎨 Hobbies: Anime, manga, sports and E-sports 
