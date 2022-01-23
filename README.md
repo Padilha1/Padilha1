@@ -1,8 +1,7 @@
 - <h1> Hi, I’m Matheus Padilha, but you can call me just Padilha 😎 </h1>
 
-![dao-trong-le-7](https://user-images.githubusercontent.com/82119551/150678716-ca994980-3ab9-4995-b5cf-2372dc345bbe.jpg)
-credits: dao trong le
-        
+
+![Padilha's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)        
 
 - 👀 I’m interested in WebDesign, Neuroscience, Virtual Reality, Creation of Art.
 - 🎨 Hobbies: Anime, manga, sports and E-sports 
@@ -12,7 +11,7 @@ credits: dao trong le
 - 💞️ I’m looking to collaborate on NeuroScience projects for Virtual Reality. Example like the game of Sword Art Online.
 - 📫 How to reach me: padilha.matheus@hotmail.com 
 
-<!---
-Padilha1/Padilha1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+![dao-trong-le-7](https://user-images.githubusercontent.com/82119551/150678716-ca994980-3ab9-4995-b5cf-2372dc345bbe.jpg)
+credits: dao trong le
