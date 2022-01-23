@@ -1,11 +1,8 @@
--
-- 
--   
--![dao-trong-le-7](https://user-images.githubusercontent.com/82119551/150678716-ca994980-3ab9-4995-b5cf-2372dc345bbe.jpg)
--      
--       
+![dao-trong-le-7](https://user-images.githubusercontent.com/82119551/150678716-ca994980-3ab9-4995-b5cf-2372dc345bbe.jpg)
+credits: dao trong le
+
 -        
--          👋 Hi, I’m @Padilha 
+- 👋 Hi, I’m @Padilha 
 - 👀 I’m interested in WebDesign, Neuroscience, Virtual Reality, Creation of Art.
 - 🎨 Hobbies: Anime, manga, sports and E-sports 
 - 🌱 **I have some skills with Frontend Web Development.**
