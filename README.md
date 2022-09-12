@@ -16,15 +16,15 @@
 
 
 
-- 👀 I’m interested in WebDesign mainly, Neuroscience, Virtual Reality.
-- 🎨 Hobbies: Anime, manga, sports and E-sports 
+- 👀 I’m interested in WebDesign mainly (Fullstack)
 - 🌱 **I have some skills with Frontend Web Development.**
-- 💻 **I have some knowledge with C/C++, Java, PostgreSQL.**
-- 🐍 *Starting to learn Typescript.*
+- 💻 *Starting to learn Typescript.*
+- 💻 **I have some knowledge with C/C++, PostgreSQL, Python.**
 - 📫 How to reach me: padilha.matheus@hotmail.com 
+- 🎨 Hobbies: Anime, manga, sports and E-sports 
 <br>
 
 
 
 ![dao-trong-le-7](https://user-images.githubusercontent.com/82119551/150678716-ca994980-3ab9-4995-b5cf-2372dc345bbe.jpg)
-credits: dao trong le
+Credits: dao trong le
