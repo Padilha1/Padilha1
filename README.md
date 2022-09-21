@@ -16,9 +16,9 @@
 
 
 
-- 👀 I’m interested in WebDesign mainly (Fullstack)
+- 👀 I’m interested in Web Development mainly (Fullstack or Frontend)
 - 🌱 **I have some skills with Frontend Web Development.**
-- 💻 *Starting to learn Typescript.*
+- 💻 *Learning Typescript at the moment.*
 - 💻 **I have some knowledge with C/C++, PostgreSQL, Python.**
 - 📫 How to reach me: padilha.matheus@hotmail.com 
 - 🎨 Hobbies: Anime, manga, sports and E-sports 
