@@ -1,7 +1,7 @@
 # 👋🏻 Hey there, I'm Padilha !! 
  I'm Matheus Padilha, a Software Engineer student, tech enthusiast and coffee lover. Currently, I work as Frontend Freelancer with 1 year of experience in the field. I've worked already on international project and explore new technologies!
 
- ## Expertise
+ ## 💻 Expertise
 <p> Working as Frontend Freelancer now, developed and still improving a website and a mobile app for Inspection of Security Systems inside Industry. I consider myself a Junior, there are features, bug fixes, other points I can handle myself. 
 On the other hand, I know I have much more to learn, such as Clean Clode, Design patterns and SEO practices. </p>
 <p>
