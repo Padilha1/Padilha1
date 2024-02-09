@@ -1,20 +1,40 @@
 # 👋🏻 Hey there, I'm Padilha !! 
-Welcome to my Github, here you find some of my projects and studies, working 
-- 🌱 **Focused on Frontend Web Development.**
-- 💻 *Working with Frontend in Web applications and Mobile.*
-- 📫 How to reach me: padilha.matheus@hotmail.com 
-- 💻 **I have some knowledge with C/C++, PostgreSQL, Python.**
-- 🎨 Hobbies: Anime, manga, sports and E-sports
-  
-<div>
-  <a href="https://www.instagram.com/matheus.padilha/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">   </a>
-  <a href="https://www.linkedin.com/in/matheus-padilha-rodrigues-27bb181b6/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.youtube.com/channel/UCqqk4rwWBG9_nE7PHgDaoFQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a> </br>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+ I'm Matheus Padilha, a Software Engineer student, tech enthusiast and coffee lover. Currently, I work as Frontend Freelancer with 1 year of experience in the field. I've worked already on international project and explore new technologies!
+
+ ## Expertise
+<p> Working as Frontend Freelancer now, developed and still improving a website and a mobile app for Inspection of Security Systems inside Industry. I consider myself a Junior, there are features, bug fixes, other points I can handle myself. 
+On the other hand, I know I have much more to learn, such as Clean Clode, Design patterns and SEO practices. </p>
+<p>
+Professionaly and personally, I'm and will pursuit to help people as much as I can with the technology and improve their lives, I'm proud I'm finishing my Graduation as a Software Engineer and therefore be able to help more people through tech!
+</p>
+<p>My previous job was as Project Assistant in a Multinational. On the Industry I learned more about data management, including how to use Grafana and Node-Red. Also, I was chose to implement a new Tool in the Plant I was working on. 
+This Project of the new Tool was international, so it counted with help of colleagues from other countries.  
+</p>
+
+  ### 🛠 Tech Stack
+  <div>
   <img src="https://img.shields.io/badge/Javascript-20232A?style=for-the-badge&logo=javascript">
-</div>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/mysql-%2300ff.svg?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
+  </div>
+
+  ### 🌍 Socials: 
+  <a href="https://www.instagram.com/matheus.padilha/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">   </a>
+  <a href="https://www.linkedin.com/in/matheus-padilha-rodrigues-27bb181b6/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
+
+> The best way to be happy is to contribute to the happiness of others.  - Confucio
 <br>
 <div>
   <img height ="180em" src="https://github-readme-stats.vercel.app/api?username=padilha1&show_icons=true&theme=radical"/>
@@ -22,7 +42,3 @@ Welcome to my Github, here you find some of my projects and studies, working
 </div>
 <br>
 
-
-
-![dao-trong-le-7](https://user-images.githubusercontent.com/82119551/150678716-ca994980-3ab9-4995-b5cf-2372dc345bbe.jpg)
-Credits: dao trong le
