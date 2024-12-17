@@ -1,26 +1,27 @@
-# 👋🏻 Hey there, I'm Padilha !! 
- I'm Matheus Padilha, a Software Engineer student, tech enthusiast and coffee lover. Currently, I work as Frontend Freelancer with 1 year of experience in the field. I've worked already on international project and explore new technologies!
+# 👋🏻 Hey there, call me Padilha !! 
+ I'm Matheus Padilha Rodrigues, a Software Engineer, tech enthusiast and coffee lover. Currently, I work as Frontend - with some Backend exp - Freelancer with 2 years of experience in the field. I've worked already on international project and explore new technologies!
 
  ## 💻 Expertise
-<p> Working as Frontend Freelancer now, developed and still improving a website and a mobile app for Inspection of Security Systems inside Industry. I consider myself a Junior, there are features, bug fixes, other points I can handle myself. 
-On the other hand, I know I have much more to learn, such as Clean Clode, Design patterns and SEO practices. </p>
+<p> Working as Frontend Freelancer now, developed and still improving a website and a mobile app for Inspection of Security Systems inside Industry. There are features, bug fixes, api points and more to develop. 
+Furthermore, other skills I must (and am) study, such as Design patterns, SEO practices, Software Architeture and general good practices. </p>
 <p>
+ <p>Worked as a Fullstack Intern, mainly improving clients Wordpress websites and APIs, documenting, added functionality to Woocommerce API and enhanced navigation within some websites with HTML-Javascript-CSS. </p>
 Professionaly and personally, I'm and will pursuit to help people as much as I can with the technology and improve their lives, I'm proud I'm finishing my Graduation as a Software Engineer and therefore be able to help more people through tech!
 </p>
-<p>My previous job was as Project Assistant in a Multinational. On the Industry I learned more about data management, including how to use Grafana and Node-Red. Also, I was chose to implement a new Tool in the Plant I was working on. 
-This Project of the new Tool was international, so it counted with help of colleagues from other countries.  
+<p>On previous job I was as Project Assistant in a Multinational. On the Industry I learned more about data management, including how to use Grafana and Node-Red. Also, I was chose to implement a new Tool in the Plant I was working on. 
+This Project of the new Tool was international, so it counted with help and knowledge of colleagues from other countries.  
 </p>
 
   ### 🛠 Tech Stack
   <div>
-  <img src="https://img.shields.io/badge/Javascript-20232A?style=for-the-badge&logo=javascript">
+  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Javascript-20232A?style=for-the-badge&logo=javascript">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-%2300ff.svg?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
