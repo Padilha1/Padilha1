@@ -1,5 +1,5 @@
 # 👋🏻 Hey there, call me Padilha !! 
- I'm Matheus Padilha Rodrigues, a Software Engineer, tech enthusiast and coffee lover. Currently, I work as Frontend - with some Backend exp - Freelancer with 2 years of experience in the field. I've worked already on international project and explore new technologies!
+ I'm Matheus Padilha Rodrigues, a Software Engineer, tech enthusiast and coffee lover. Currently, I work as Fullstack Freelancer with 2 years of experience in the field. I've worked already on international project and explore new technologies!
 
  ## 💻 Expertise
 <p> Working as Frontend Freelancer now, developed and still improving a website and a mobile app for Inspection of Security Systems inside Industry. There are features, bug fixes, api points and more to develop. 
