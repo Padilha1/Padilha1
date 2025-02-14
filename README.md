@@ -33,7 +33,7 @@ This Project of the new Tool was international, so it counted with help and know
 
   ### 🌍 Socials: 
   <a href="https://www.instagram.com/matheus.padilha/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">   </a>
-  <a href="https://www.linkedin.com/in/matheus-padilha-rodrigues-27bb181b6/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
+  <a href="https://www.linkedin.com/in/padilha--matheus/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
 
 > The best way to be happy is to contribute to the happiness of others.  - Confucio
 <br>
