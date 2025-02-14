@@ -2,7 +2,7 @@
  I'm Matheus Padilha Rodrigues, a Software Engineer, tech enthusiast and coffee lover. Currently, I work as Fullstack Freelancer with 2 years of experience in the field. I've worked already on international project and explore new technologies!
 
  ## 💻 Expertise
-<p> Working as Frontend Freelancer now, developed and still improving a website and a mobile app for Inspection of Security Systems inside Industry. There are features, bug fixes, api points and more to develop. 
+<p> Working as Fullstack Freelancer now, developed and still improving a website and a mobile app for Inspection of Security Systems inside Industry market. There are features, bug fixes, api points and more to develop. 
 Furthermore, other skills I must (and am) study, such as Design patterns, SEO practices, Software Architeture and general good practices. </p>
 <p>
  <p>Worked as a Fullstack Intern, mainly improving clients Wordpress websites and APIs, documenting, added functionality to Woocommerce API and enhanced navigation within some websites with HTML-Javascript-CSS. </p>
