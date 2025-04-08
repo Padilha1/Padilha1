@@ -1,5 +1,5 @@
 # 👋🏻 Hey there, call me Padilha !! 
- I'm Matheus Padilha Rodrigues, a Software Engineer, tech enthusiast and coffee lover. Currently, I work as Fullstack Freelancer with 3 years of experience in the field. I've worked already on international project and I'm still exploring new technologies!
+ I'm Matheus Padilha Rodrigues, a Software Engineer, tech enthusiast and coffee lover. Currently, I work as Fullstack Developer with 3 years of experience in the field. I've worked already on international project and I'm still exploring new technologies!
 
  ## 💻 Expertise
 <p> Working as Fullstack Freelancer now, developed and still improving a website and a mobile app for Inspection of Security Systems inside Industry market. There are features, bug fixes, api points and more to develop. 
